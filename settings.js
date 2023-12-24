@@ -1,4 +1,4 @@
-/*
+on/*
    Created By ArxzyDev
    My Contact wa.me/6289513081052
 */
@@ -41,7 +41,7 @@ global.mess = {
 global.thumb = fs.readFileSync('./media/quoted.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
 /* ~~~~~~~~~ EDITS LINK ~~~~~~~~~ */
-global.link = 'https://chat.whatsapp.com/LfBvDxQujrLHihSRI6TCIZ'
+global.link = 'https://chat.whatsapp.com/ELFRGzKozioFTIMm1WN636'
 /* ~~~~~~~~~ END SYSTEM ~~~~~~~~~ */
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
